@@ -31,14 +31,6 @@
 
 ---
 
-## 🎉 Fun Fact  
-<p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250px">
-</p>
-- Did you know? **Even though I'm a Mechanical Engineer, I accidentally wrote my first "Hello World" program thinking it was a CAD command!** 😆  
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
