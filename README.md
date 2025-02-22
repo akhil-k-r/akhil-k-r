@@ -41,7 +41,3 @@
   </a>
 </p>
 
----
-
-💡 *"Engineering is about innovation, and I'm on a journey to bridge mechanical and digital worlds!"*  
-🚀 *Let's build something amazing together!*  
