@@ -1,11 +1,55 @@
-# Hi, I'm Akhil K R 👋  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
+  Hey there, I'm Akhil K R!  
+</h1>
 
-I'm a **Mechanical Engineering** student with a keen interest in exploring technology. While I have only basic programming knowledge, I'm eager to learn and improve my skills over time.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%23F7F7F7&center=true&vCenter=true&width=500&height=40&lines=🚀+Mechanical+Engineering+Student;🔧+Exploring+Tech+%26+Coding;🔥+Lifelong+Learner" alt="Typing SVG">
+</p>
 
-### 🔧 Skills & Interests  
-- Mechanical Engineering Concepts  
-- Basic Programming  
-- Exploring New Technologies  
+---
 
-### 📫 Connect with Me  
-Feel free to connect with me on GitHub as I begin my coding journey!  
+## 🚀 About Me  
+- 🏗️ Passionate about **Mechanical Engineering**  
+- 💻 Exploring **Programming & Technology**  
+- 📖 Currently learning **basic coding concepts**  
+
+---
+
+## 🔧 Skills & Interests  
+- ⚙️ **Mechanical Design & Engineering**  
+- 🖥️ **Basic Programming (Python, C)**  
+- 🤖 **Curious about Automation & Robotics**  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilkr&show_icons=true&theme=tokyonight" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilkr&theme=tokyonight" width="428px">
+</p>
+
+---
+
+## 🎉 Fun Fact  
+<p align="center">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250px">
+</p>
+- Did you know? **Even though I'm a Mechanical Engineer, I accidentally wrote my first "Hello World" program thinking it was a CAD command!** 😆  
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+💡 *"Engineering is about innovation, and I'm on a journey to bridge mechanical and digital worlds!"*  
+🚀 *Let's build something amazing together!*  
